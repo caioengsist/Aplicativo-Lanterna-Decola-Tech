@@ -1,7 +1,4 @@
 # DIO - Decola Tech 3º Edição
-# 
-
-![image](C:\Users\caioa\OneDrive\Área de Trabalho\FOTO.jpeg)
 
 
 
